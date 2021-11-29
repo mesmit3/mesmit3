@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mesmit3
 - 👀 I’m interested in backpacking, hiking, off-roading, cross-stitch, videogames and coding!
 - 🌱 I’m currently learning Python and SwiftUI.
-- 💞️ I’m looking to collaborate on nothing yet, but I'm happy to learn! 
 - 📫 How to reach me: email - mesmit3@icloud.com
 
 <!---
